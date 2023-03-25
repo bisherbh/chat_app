@@ -1,6 +1,6 @@
-# BTA is  chat_app
+# BTA chat_app
 
-BTA is An application that allows you to communicate and chat with others
+BTA chat_app is An application that allows you to communicate and chat with others
 Where you are logged in via email
 One of the advantages of the application is that you can know if the user is active or not
 ![8e1eb7d6bf88d9259efdb358eb4cf3e7](https://user-images.githubusercontent.com/82336393/227668613-e091ee23-76b5-461c-9033-e8fb69b8d45a.jpg)
